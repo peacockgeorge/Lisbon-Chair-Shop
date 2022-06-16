@@ -1,2 +1,2 @@
 # Lisbon-Chair-Shop
-Project done while going through 'Responsive websites with HTML and CSS' course by Jonas Schmedtmann 
+The end of 2021/beginning of 2022. - Renewing HTML and CSS
