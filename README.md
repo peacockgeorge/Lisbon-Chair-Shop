@@ -1,2 +1,2 @@
 # Lisbon-Chair-Shop
-The end of 2021/beginning of 2022. - Renewing HTML and CSS
+Course - Responsive websites with HTML and CSS by Jonas Schmedtmann
